@@ -1,0 +1,22 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": ".NET Launch (https)",
+      "type": "coreclr",
+      "request": "launch",
+      "program": "${workspaceFolder}/CodexIntegrationIntoNet/bin/Debug/net8.0/CodexIntegrationIntoNet.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/CodexIntegrationIntoNet",
+      "stopAtEntry": false,
+      "env": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "ASPNETCORE_URLS": "https://localhost:7096;http://localhost:5216"
+      },
+      "serverReadyAction": {
+        "action": "openExternally",
+        "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
+      }
+    }
+  ]
+}

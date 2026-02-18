@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodexIntegrationIntoNet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0bf73269e1c3f0f8419b523dd2edb51d3d2fe8b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+730edb9bc3f22be09cb0427dc3655574bdecda24")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodexIntegrationIntoNet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodexIntegrationIntoNet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
